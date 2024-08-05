@@ -1,0 +1,12 @@
+.black {
+    height: 100vh;
+    width: 100%;
+    background-color: white;
+    overflow: hidden;
+}
+.white {
+    height: 100vh;
+    width: 100%;
+    background-color:cadetblue;
+    overflow: hidden;
+}
